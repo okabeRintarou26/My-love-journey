@@ -19,7 +19,7 @@ window.addEventListener('load', () => {
       loop: true
     });
     const typed2 = new Typed(".typing2", {
-      strings: ["Hello Kalog", "May gusto lang", "Akong Sabihin", "pindutin mo yung button"],
+      strings: ["Hallo sayaangg", "Aku sangat mencintaimu", "Ku harap ini dapat tersampaikan", "Tekan tombol yang bawah ya🥰"],
       typeSpeed: 100,
       backSpeed: 40,
       startDelay: 1000,
